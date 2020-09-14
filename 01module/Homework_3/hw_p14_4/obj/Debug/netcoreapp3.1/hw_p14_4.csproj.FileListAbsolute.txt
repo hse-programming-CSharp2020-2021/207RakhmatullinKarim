@@ -1,0 +1,12 @@
+/Users/karimrakhmatullin/Desktop/207RakhmatullinKarim/01module/Homework_3/hw_p14_4/bin/Debug/netcoreapp3.1/hw_p14_4.deps.json
+/Users/karimrakhmatullin/Desktop/207RakhmatullinKarim/01module/Homework_3/hw_p14_4/bin/Debug/netcoreapp3.1/hw_p14_4.runtimeconfig.json
+/Users/karimrakhmatullin/Desktop/207RakhmatullinKarim/01module/Homework_3/hw_p14_4/bin/Debug/netcoreapp3.1/hw_p14_4.runtimeconfig.dev.json
+/Users/karimrakhmatullin/Desktop/207RakhmatullinKarim/01module/Homework_3/hw_p14_4/bin/Debug/netcoreapp3.1/hw_p14_4.dll
+/Users/karimrakhmatullin/Desktop/207RakhmatullinKarim/01module/Homework_3/hw_p14_4/bin/Debug/netcoreapp3.1/hw_p14_4.pdb
+/Users/karimrakhmatullin/Desktop/207RakhmatullinKarim/01module/Homework_3/hw_p14_4/obj/Debug/netcoreapp3.1/hw_p14_4.csprojAssemblyReference.cache
+/Users/karimrakhmatullin/Desktop/207RakhmatullinKarim/01module/Homework_3/hw_p14_4/obj/Debug/netcoreapp3.1/hw_p14_4.AssemblyInfoInputs.cache
+/Users/karimrakhmatullin/Desktop/207RakhmatullinKarim/01module/Homework_3/hw_p14_4/obj/Debug/netcoreapp3.1/hw_p14_4.AssemblyInfo.cs
+/Users/karimrakhmatullin/Desktop/207RakhmatullinKarim/01module/Homework_3/hw_p14_4/obj/Debug/netcoreapp3.1/hw_p14_4.csproj.CoreCompileInputs.cache
+/Users/karimrakhmatullin/Desktop/207RakhmatullinKarim/01module/Homework_3/hw_p14_4/obj/Debug/netcoreapp3.1/hw_p14_4.dll
+/Users/karimrakhmatullin/Desktop/207RakhmatullinKarim/01module/Homework_3/hw_p14_4/obj/Debug/netcoreapp3.1/hw_p14_4.pdb
+/Users/karimrakhmatullin/Desktop/207RakhmatullinKarim/01module/Homework_3/hw_p14_4/obj/Debug/netcoreapp3.1/hw_p14_4.genruntimeconfig.cache

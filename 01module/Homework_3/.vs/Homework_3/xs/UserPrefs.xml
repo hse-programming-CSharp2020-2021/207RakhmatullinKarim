@@ -1,0 +1,49 @@
+﻿<Properties StartupConfiguration="{217DFCCB-29EE-4EA6-BBD2-8E7602893471}|Default">
+  <MonoDevelop.Ide.ItemProperties.hw__p14__2 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Num__3 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.hw__p14__3 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.hw__p13__1 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.hw__p14__1 FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="hw_1/Program.cs">
+    <Files>
+      <File FileName="Num_3/Program.cs" Line="38" Column="14" />
+      <File FileName="Num_6/Program.cs" Line="30" Column="67" />
+      <File FileName="Num_7/Program.cs" Line="28" Column="59" />
+      <File FileName="hw_1/Program.cs" Line="9" Column="65" />
+      <File FileName="hw_2/Program.cs" Line="32" Column="14" />
+      <File FileName="hw_3/Program.cs" Line="1" Column="1" />
+      <File FileName="hw_p14_2/Program.cs" Line="33" Column="40" />
+      <File FileName="hw_p14_3/Program.cs" Line="22" Column="10" />
+      <File FileName="hw_p14_4/Program.cs" Line="53" Column="63" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Homework_3" expanded="True">
+            <Node name="hw_p13_1" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+            <Node name="hw_p13_2" expanded="True" />
+            <Node name="hw_p14_1" expanded="True" />
+            <Node name="hw_p14_2" expanded="True" />
+            <Node name="hw_p14_3" expanded="True" />
+            <Node name="hw_p14_4" expanded="True" />
+            <Node name="Num_3" expanded="True" />
+            <Node name="Num_6" expanded="True" />
+            <Node name="Num_7" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Num__7 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Num__6 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.hw__p13__2 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.hw__p14__4 PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

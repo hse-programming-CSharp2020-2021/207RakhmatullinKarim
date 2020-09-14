@@ -1,0 +1,41 @@
+﻿<Properties StartupConfiguration="{46E3CE2A-4AC5-49EA-BD96-1E7489AAB360}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Homework_2_07/Program.cs">
+    <Files>
+      <File FileName="Homework_2.1/Program.cs" Line="23" Column="13" />
+      <File FileName="Homework_2_02/Program.cs" Line="26" Column="24" />
+      <File FileName="Homework_2_03/Program.cs" Line="16" Column="57" />
+      <File FileName="Homework_2_04/Program.cs" Line="26" Column="14" />
+      <File FileName="Homework_2_05/Program.cs" Line="33" Column="14" />
+      <File FileName="Homework_2_06/Program.cs" Line="20" Column="14" />
+      <File FileName="Homework_2_07/Program.cs" Line="31" Column="14" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Homework_2" expanded="True">
+            <Node name="Homework_2_01" expanded="True" />
+            <Node name="Homework_2_02" expanded="True" />
+            <Node name="Homework_2_03" expanded="True" />
+            <Node name="Homework_2_04" expanded="True" />
+            <Node name="Homework_2_05" expanded="True" />
+            <Node name="Homework_2_06" expanded="True" />
+            <Node name="Homework_2_07" expanded="True" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Homework__2__05 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Homework__2__04 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Homework__2__06 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Homework__2__07 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Homework__2__01 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Homework__2__02 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Homework__2__03 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
