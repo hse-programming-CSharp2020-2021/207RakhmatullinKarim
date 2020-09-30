@@ -5,7 +5,7 @@
   <MonoDevelop.Ide.ItemProperties.hw__p14__3 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.hw__p13__1 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.hw__p14__1 PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Num_4/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="hw_3/Program.cs">
     <Files>
       <File FileName="Num_3/Program.cs" Line="38" Column="14" />
       <File FileName="Num_6/Program.cs" />
@@ -24,14 +24,14 @@
           <Node name="Homework_3" expanded="True">
             <Node name="hw_p13_1" expanded="True" />
             <Node name="hw_p13_2" expanded="True" />
-            <Node name="hw_p14_1" expanded="True" />
+            <Node name="hw_p14_1" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
             <Node name="hw_p14_2" expanded="True" />
             <Node name="hw_p14_3" expanded="True" />
             <Node name="hw_p14_4" expanded="True" />
             <Node name="Num_3" expanded="True" />
-            <Node name="Num_4" expanded="True">
-              <Node name="Program.cs" selected="True" />
-            </Node>
+            <Node name="Num_4" expanded="True" />
             <Node name="Num_6" expanded="True" />
             <Node name="Num_7" expanded="True" />
           </Node>
