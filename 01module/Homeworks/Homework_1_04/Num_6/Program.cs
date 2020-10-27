@@ -16,7 +16,7 @@ namespace Num_6
                 powOfx = 4,
                 fact = 24;
 
-            double r1 = x * x,
+            double r1 = 1,
                 r2 = 0;
             while(r1 - r2 != 0.000)
             {
