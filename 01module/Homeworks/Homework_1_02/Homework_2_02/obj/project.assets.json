@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/karimrakhmatullin/Desktop/207RakhmatullinKarim/01module/Homework_2/Homework_2_02/Homework_2_02.csproj",
+      "projectUniqueName": "/Users/karimrakhmatullin/Desktop/207RakhmatullinKarim/01module/Homeworks/Homework_1_02/Homework_2_02/Homework_2_02.csproj",
       "projectName": "Homework_2_02",
-      "projectPath": "/Users/karimrakhmatullin/Desktop/207RakhmatullinKarim/01module/Homework_2/Homework_2_02/Homework_2_02.csproj",
+      "projectPath": "/Users/karimrakhmatullin/Desktop/207RakhmatullinKarim/01module/Homeworks/Homework_1_02/Homework_2_02/Homework_2_02.csproj",
       "packagesPath": "/Users/karimrakhmatullin/.nuget/packages/",
-      "outputPath": "/Users/karimrakhmatullin/Desktop/207RakhmatullinKarim/01module/Homework_2/Homework_2_02/obj/",
+      "outputPath": "/Users/karimrakhmatullin/Desktop/207RakhmatullinKarim/01module/Homeworks/Homework_1_02/Homework_2_02/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/karimrakhmatullin/.config/NuGet/NuGet.Config"
