@@ -1,0 +1,11 @@
+/Users/karimrakhmatullin/Desktop/207RakhmatullinKarim/01module/Homeworks/Homework_8.10/Task_2_p33/bin/Debug/netcoreapp3.1/Task_2_p33.deps.json
+/Users/karimrakhmatullin/Desktop/207RakhmatullinKarim/01module/Homeworks/Homework_8.10/Task_2_p33/bin/Debug/netcoreapp3.1/Task_2_p33.runtimeconfig.json
+/Users/karimrakhmatullin/Desktop/207RakhmatullinKarim/01module/Homeworks/Homework_8.10/Task_2_p33/bin/Debug/netcoreapp3.1/Task_2_p33.runtimeconfig.dev.json
+/Users/karimrakhmatullin/Desktop/207RakhmatullinKarim/01module/Homeworks/Homework_8.10/Task_2_p33/bin/Debug/netcoreapp3.1/Task_2_p33.dll
+/Users/karimrakhmatullin/Desktop/207RakhmatullinKarim/01module/Homeworks/Homework_8.10/Task_2_p33/bin/Debug/netcoreapp3.1/Task_2_p33.pdb
+/Users/karimrakhmatullin/Desktop/207RakhmatullinKarim/01module/Homeworks/Homework_8.10/Task_2_p33/obj/Debug/netcoreapp3.1/Task_2_p33.AssemblyInfoInputs.cache
+/Users/karimrakhmatullin/Desktop/207RakhmatullinKarim/01module/Homeworks/Homework_8.10/Task_2_p33/obj/Debug/netcoreapp3.1/Task_2_p33.AssemblyInfo.cs
+/Users/karimrakhmatullin/Desktop/207RakhmatullinKarim/01module/Homeworks/Homework_8.10/Task_2_p33/obj/Debug/netcoreapp3.1/Task_2_p33.csproj.CoreCompileInputs.cache
+/Users/karimrakhmatullin/Desktop/207RakhmatullinKarim/01module/Homeworks/Homework_8.10/Task_2_p33/obj/Debug/netcoreapp3.1/Task_2_p33.dll
+/Users/karimrakhmatullin/Desktop/207RakhmatullinKarim/01module/Homeworks/Homework_8.10/Task_2_p33/obj/Debug/netcoreapp3.1/Task_2_p33.pdb
+/Users/karimrakhmatullin/Desktop/207RakhmatullinKarim/01module/Homeworks/Homework_8.10/Task_2_p33/obj/Debug/netcoreapp3.1/Task_2_p33.genruntimeconfig.cache

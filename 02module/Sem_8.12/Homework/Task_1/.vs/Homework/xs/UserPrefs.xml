@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{7C4AC7BE-6844-4B21-8F23-F78C0D9247A4}|Default">
+  <MonoDevelop.Ide.ItemProperties.Task__2 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Task__1 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="../Task_3/Program.cs">
+    <Files>
+      <File FileName="Program.cs" Line="9" Column="66" />
+      <File FileName="../Task_3/Program.cs" Line="44" Column="79" />
+      <File FileName="Validate.cs" />
+      <File FileName="../Task_2/Program.cs" />
+      <File FileName="../Task_2/MyAbbreviation.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Homework" expanded="True">
+            <Node name="Task_1" expanded="True" />
+            <Node name="Task_2" expanded="True" />
+            <Node name="Task_3" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Task__3 PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
