@@ -1,0 +1,12 @@
+/Users/karimrakhmatullin/Desktop/207RakhmatullinKarim/01module/Sem_03/Num_1/bin/Debug/netcoreapp3.1/Num_1.deps.json
+/Users/karimrakhmatullin/Desktop/207RakhmatullinKarim/01module/Sem_03/Num_1/bin/Debug/netcoreapp3.1/Num_1.runtimeconfig.json
+/Users/karimrakhmatullin/Desktop/207RakhmatullinKarim/01module/Sem_03/Num_1/bin/Debug/netcoreapp3.1/Num_1.runtimeconfig.dev.json
+/Users/karimrakhmatullin/Desktop/207RakhmatullinKarim/01module/Sem_03/Num_1/bin/Debug/netcoreapp3.1/Num_1.dll
+/Users/karimrakhmatullin/Desktop/207RakhmatullinKarim/01module/Sem_03/Num_1/bin/Debug/netcoreapp3.1/Num_1.pdb
+/Users/karimrakhmatullin/Desktop/207RakhmatullinKarim/01module/Sem_03/Num_1/obj/Debug/netcoreapp3.1/Num_1.csprojAssemblyReference.cache
+/Users/karimrakhmatullin/Desktop/207RakhmatullinKarim/01module/Sem_03/Num_1/obj/Debug/netcoreapp3.1/Num_1.AssemblyInfoInputs.cache
+/Users/karimrakhmatullin/Desktop/207RakhmatullinKarim/01module/Sem_03/Num_1/obj/Debug/netcoreapp3.1/Num_1.AssemblyInfo.cs
+/Users/karimrakhmatullin/Desktop/207RakhmatullinKarim/01module/Sem_03/Num_1/obj/Debug/netcoreapp3.1/Num_1.csproj.CoreCompileInputs.cache
+/Users/karimrakhmatullin/Desktop/207RakhmatullinKarim/01module/Sem_03/Num_1/obj/Debug/netcoreapp3.1/Num_1.dll
+/Users/karimrakhmatullin/Desktop/207RakhmatullinKarim/01module/Sem_03/Num_1/obj/Debug/netcoreapp3.1/Num_1.pdb
+/Users/karimrakhmatullin/Desktop/207RakhmatullinKarim/01module/Sem_03/Num_1/obj/Debug/netcoreapp3.1/Num_1.genruntimeconfig.cache

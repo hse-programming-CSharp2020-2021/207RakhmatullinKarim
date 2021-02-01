@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{6A49D03E-29F4-4BB1-8CAD-C2CDBF6E4AF8}|Default">
+  <MonoDevelop.Ide.ItemProperties.Task__6 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Task_06/Program.cs">
+    <Files>
+      <File FileName="Votes/Program.cs" Line="32" Column="27" />
+      <File FileName="Task_6/Program.cs" />
+      <File FileName="Task_06/Program.cs" Line="83" Column="38" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Homework" expanded="True">
+            <Node name="Task_6" expanded="True" selected="True" />
+            <Node name="Votes" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Votes PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

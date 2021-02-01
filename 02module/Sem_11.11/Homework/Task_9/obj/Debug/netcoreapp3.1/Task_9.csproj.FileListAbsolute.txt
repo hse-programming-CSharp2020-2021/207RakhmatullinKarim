@@ -1,0 +1,12 @@
+/Users/karimrakhmatullin/Desktop/207RakhmatullinKarim/02module/Sem_11.11/Homework/Task_9/bin/Debug/netcoreapp3.1/Task_9.deps.json
+/Users/karimrakhmatullin/Desktop/207RakhmatullinKarim/02module/Sem_11.11/Homework/Task_9/bin/Debug/netcoreapp3.1/Task_9.runtimeconfig.json
+/Users/karimrakhmatullin/Desktop/207RakhmatullinKarim/02module/Sem_11.11/Homework/Task_9/bin/Debug/netcoreapp3.1/Task_9.runtimeconfig.dev.json
+/Users/karimrakhmatullin/Desktop/207RakhmatullinKarim/02module/Sem_11.11/Homework/Task_9/bin/Debug/netcoreapp3.1/Task_9.dll
+/Users/karimrakhmatullin/Desktop/207RakhmatullinKarim/02module/Sem_11.11/Homework/Task_9/bin/Debug/netcoreapp3.1/Task_9.pdb
+/Users/karimrakhmatullin/Desktop/207RakhmatullinKarim/02module/Sem_11.11/Homework/Task_9/obj/Debug/netcoreapp3.1/Task_9.csprojAssemblyReference.cache
+/Users/karimrakhmatullin/Desktop/207RakhmatullinKarim/02module/Sem_11.11/Homework/Task_9/obj/Debug/netcoreapp3.1/Task_9.AssemblyInfoInputs.cache
+/Users/karimrakhmatullin/Desktop/207RakhmatullinKarim/02module/Sem_11.11/Homework/Task_9/obj/Debug/netcoreapp3.1/Task_9.AssemblyInfo.cs
+/Users/karimrakhmatullin/Desktop/207RakhmatullinKarim/02module/Sem_11.11/Homework/Task_9/obj/Debug/netcoreapp3.1/Task_9.csproj.CoreCompileInputs.cache
+/Users/karimrakhmatullin/Desktop/207RakhmatullinKarim/02module/Sem_11.11/Homework/Task_9/obj/Debug/netcoreapp3.1/Task_9.dll
+/Users/karimrakhmatullin/Desktop/207RakhmatullinKarim/02module/Sem_11.11/Homework/Task_9/obj/Debug/netcoreapp3.1/Task_9.pdb
+/Users/karimrakhmatullin/Desktop/207RakhmatullinKarim/02module/Sem_11.11/Homework/Task_9/obj/Debug/netcoreapp3.1/Task_9.genruntimeconfig.cache
