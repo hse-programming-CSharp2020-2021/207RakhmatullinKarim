@@ -1,0 +1,12 @@
+/Users/karim/Library/Mobile Documents/com~apple~CloudDocs/Desktop/207RakhmatullinKarim/03module/Sem_9.02/ClassWork/Task_1/bin/Debug/netcoreapp3.1/Task_1.deps.json
+/Users/karim/Library/Mobile Documents/com~apple~CloudDocs/Desktop/207RakhmatullinKarim/03module/Sem_9.02/ClassWork/Task_1/bin/Debug/netcoreapp3.1/Task_1.runtimeconfig.json
+/Users/karim/Library/Mobile Documents/com~apple~CloudDocs/Desktop/207RakhmatullinKarim/03module/Sem_9.02/ClassWork/Task_1/bin/Debug/netcoreapp3.1/Task_1.runtimeconfig.dev.json
+/Users/karim/Library/Mobile Documents/com~apple~CloudDocs/Desktop/207RakhmatullinKarim/03module/Sem_9.02/ClassWork/Task_1/bin/Debug/netcoreapp3.1/Task_1.dll
+/Users/karim/Library/Mobile Documents/com~apple~CloudDocs/Desktop/207RakhmatullinKarim/03module/Sem_9.02/ClassWork/Task_1/bin/Debug/netcoreapp3.1/Task_1.pdb
+/Users/karim/Library/Mobile Documents/com~apple~CloudDocs/Desktop/207RakhmatullinKarim/03module/Sem_9.02/ClassWork/Task_1/obj/Debug/netcoreapp3.1/Task_1.csprojAssemblyReference.cache
+/Users/karim/Library/Mobile Documents/com~apple~CloudDocs/Desktop/207RakhmatullinKarim/03module/Sem_9.02/ClassWork/Task_1/obj/Debug/netcoreapp3.1/Task_1.AssemblyInfoInputs.cache
+/Users/karim/Library/Mobile Documents/com~apple~CloudDocs/Desktop/207RakhmatullinKarim/03module/Sem_9.02/ClassWork/Task_1/obj/Debug/netcoreapp3.1/Task_1.AssemblyInfo.cs
+/Users/karim/Library/Mobile Documents/com~apple~CloudDocs/Desktop/207RakhmatullinKarim/03module/Sem_9.02/ClassWork/Task_1/obj/Debug/netcoreapp3.1/Task_1.csproj.CoreCompileInputs.cache
+/Users/karim/Library/Mobile Documents/com~apple~CloudDocs/Desktop/207RakhmatullinKarim/03module/Sem_9.02/ClassWork/Task_1/obj/Debug/netcoreapp3.1/Task_1.dll
+/Users/karim/Library/Mobile Documents/com~apple~CloudDocs/Desktop/207RakhmatullinKarim/03module/Sem_9.02/ClassWork/Task_1/obj/Debug/netcoreapp3.1/Task_1.pdb
+/Users/karim/Library/Mobile Documents/com~apple~CloudDocs/Desktop/207RakhmatullinKarim/03module/Sem_9.02/ClassWork/Task_1/obj/Debug/netcoreapp3.1/Task_1.genruntimeconfig.cache
