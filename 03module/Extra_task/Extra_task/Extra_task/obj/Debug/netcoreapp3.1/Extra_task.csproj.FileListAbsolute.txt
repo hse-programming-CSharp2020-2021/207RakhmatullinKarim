@@ -1,0 +1,14 @@
+/Users/karim/Library/Mobile Documents/com~apple~CloudDocs/Desktop/207RakhmatullinKarim/03module/Extra_task/Extra_task/Extra_task/bin/Debug/netcoreapp3.1/Extra_task.deps.json
+/Users/karim/Library/Mobile Documents/com~apple~CloudDocs/Desktop/207RakhmatullinKarim/03module/Extra_task/Extra_task/Extra_task/bin/Debug/netcoreapp3.1/Extra_task.runtimeconfig.json
+/Users/karim/Library/Mobile Documents/com~apple~CloudDocs/Desktop/207RakhmatullinKarim/03module/Extra_task/Extra_task/Extra_task/bin/Debug/netcoreapp3.1/Extra_task.runtimeconfig.dev.json
+/Users/karim/Library/Mobile Documents/com~apple~CloudDocs/Desktop/207RakhmatullinKarim/03module/Extra_task/Extra_task/Extra_task/bin/Debug/netcoreapp3.1/Extra_task.dll
+/Users/karim/Library/Mobile Documents/com~apple~CloudDocs/Desktop/207RakhmatullinKarim/03module/Extra_task/Extra_task/Extra_task/bin/Debug/netcoreapp3.1/Extra_task.pdb
+/Users/karim/Library/Mobile Documents/com~apple~CloudDocs/Desktop/207RakhmatullinKarim/03module/Extra_task/Extra_task/Extra_task/bin/Debug/netcoreapp3.1/library.dll
+/Users/karim/Library/Mobile Documents/com~apple~CloudDocs/Desktop/207RakhmatullinKarim/03module/Extra_task/Extra_task/Extra_task/bin/Debug/netcoreapp3.1/library.pdb
+/Users/karim/Library/Mobile Documents/com~apple~CloudDocs/Desktop/207RakhmatullinKarim/03module/Extra_task/Extra_task/Extra_task/obj/Debug/netcoreapp3.1/Extra_task.AssemblyInfoInputs.cache
+/Users/karim/Library/Mobile Documents/com~apple~CloudDocs/Desktop/207RakhmatullinKarim/03module/Extra_task/Extra_task/Extra_task/obj/Debug/netcoreapp3.1/Extra_task.AssemblyInfo.cs
+/Users/karim/Library/Mobile Documents/com~apple~CloudDocs/Desktop/207RakhmatullinKarim/03module/Extra_task/Extra_task/Extra_task/obj/Debug/netcoreapp3.1/Extra_task.csproj.CoreCompileInputs.cache
+/Users/karim/Library/Mobile Documents/com~apple~CloudDocs/Desktop/207RakhmatullinKarim/03module/Extra_task/Extra_task/Extra_task/obj/Debug/netcoreapp3.1/Extra_task.csproj.CopyComplete
+/Users/karim/Library/Mobile Documents/com~apple~CloudDocs/Desktop/207RakhmatullinKarim/03module/Extra_task/Extra_task/Extra_task/obj/Debug/netcoreapp3.1/Extra_task.dll
+/Users/karim/Library/Mobile Documents/com~apple~CloudDocs/Desktop/207RakhmatullinKarim/03module/Extra_task/Extra_task/Extra_task/obj/Debug/netcoreapp3.1/Extra_task.pdb
+/Users/karim/Library/Mobile Documents/com~apple~CloudDocs/Desktop/207RakhmatullinKarim/03module/Extra_task/Extra_task/Extra_task/obj/Debug/netcoreapp3.1/Extra_task.genruntimeconfig.cache

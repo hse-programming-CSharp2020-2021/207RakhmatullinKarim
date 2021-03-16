@@ -1,0 +1,9 @@
+/Users/karim/Library/Mobile Documents/com~apple~CloudDocs/Desktop/207RakhmatullinKarim/03module/Extra_task/Extra_task/library/bin/Debug/netcoreapp3.1/library.deps.json
+/Users/karim/Library/Mobile Documents/com~apple~CloudDocs/Desktop/207RakhmatullinKarim/03module/Extra_task/Extra_task/library/bin/Debug/netcoreapp3.1/library.dll
+/Users/karim/Library/Mobile Documents/com~apple~CloudDocs/Desktop/207RakhmatullinKarim/03module/Extra_task/Extra_task/library/bin/Debug/netcoreapp3.1/library.pdb
+/Users/karim/Library/Mobile Documents/com~apple~CloudDocs/Desktop/207RakhmatullinKarim/03module/Extra_task/Extra_task/library/obj/Debug/netcoreapp3.1/library.csprojAssemblyReference.cache
+/Users/karim/Library/Mobile Documents/com~apple~CloudDocs/Desktop/207RakhmatullinKarim/03module/Extra_task/Extra_task/library/obj/Debug/netcoreapp3.1/library.AssemblyInfoInputs.cache
+/Users/karim/Library/Mobile Documents/com~apple~CloudDocs/Desktop/207RakhmatullinKarim/03module/Extra_task/Extra_task/library/obj/Debug/netcoreapp3.1/library.AssemblyInfo.cs
+/Users/karim/Library/Mobile Documents/com~apple~CloudDocs/Desktop/207RakhmatullinKarim/03module/Extra_task/Extra_task/library/obj/Debug/netcoreapp3.1/library.csproj.CoreCompileInputs.cache
+/Users/karim/Library/Mobile Documents/com~apple~CloudDocs/Desktop/207RakhmatullinKarim/03module/Extra_task/Extra_task/library/obj/Debug/netcoreapp3.1/library.dll
+/Users/karim/Library/Mobile Documents/com~apple~CloudDocs/Desktop/207RakhmatullinKarim/03module/Extra_task/Extra_task/library/obj/Debug/netcoreapp3.1/library.pdb

@@ -1,0 +1,1 @@
+0.258    0.721    Red0.819    0.749    Lime0.567    0.094    Gray0.652    0.805    BlueViolet0.218    0.161    DarkGreen0.043    0.684    DarkGreen0.447    0.579    Gray0.989    0.202    BlueViolet0.174    0.640    DarkOrange0.335    0.869    DarkGreen

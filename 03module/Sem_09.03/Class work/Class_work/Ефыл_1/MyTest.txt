@@ -1,0 +1,1 @@
+0.178    0.593    Crimson0.085    0.309    Crimson0.456    0.886    DarkOrange0.639    0.008    Magenta0.042    0.591    Red0.741    0.419    Lime0.949    0.148    Crimson0.846    0.685    DarkGreen0.586    0.706    Gray0.851    0.619    Purple

@@ -1,0 +1,116 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/karim/Library/Mobile Documents/com~apple~CloudDocs/Desktop/207RakhmatullinKarim/03module/Extra_task/Extra_task/Extra_task/Program_1.csproj": {}
+  },
+  "projects": {
+    "/Users/karim/Library/Mobile Documents/com~apple~CloudDocs/Desktop/207RakhmatullinKarim/03module/Extra_task/Extra_task/Extra_task/Program_1.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/karim/Library/Mobile Documents/com~apple~CloudDocs/Desktop/207RakhmatullinKarim/03module/Extra_task/Extra_task/Extra_task/Program_1.csproj",
+        "projectName": "Program_1",
+        "projectPath": "/Users/karim/Library/Mobile Documents/com~apple~CloudDocs/Desktop/207RakhmatullinKarim/03module/Extra_task/Extra_task/Extra_task/Program_1.csproj",
+        "packagesPath": "/Users/karim/.nuget/packages/",
+        "outputPath": "/Users/karim/Library/Mobile Documents/com~apple~CloudDocs/Desktop/207RakhmatullinKarim/03module/Extra_task/Extra_task/Extra_task/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/karim/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "/Users/karim/Library/Mobile Documents/com~apple~CloudDocs/Desktop/207RakhmatullinKarim/03module/Extra_task/Extra_task/library/library.csproj": {
+                "projectPath": "/Users/karim/Library/Mobile Documents/com~apple~CloudDocs/Desktop/207RakhmatullinKarim/03module/Extra_task/Extra_task/library/library.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.103/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/karim/Library/Mobile Documents/com~apple~CloudDocs/Desktop/207RakhmatullinKarim/03module/Extra_task/Extra_task/library/library.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/karim/Library/Mobile Documents/com~apple~CloudDocs/Desktop/207RakhmatullinKarim/03module/Extra_task/Extra_task/library/library.csproj",
+        "projectName": "library",
+        "projectPath": "/Users/karim/Library/Mobile Documents/com~apple~CloudDocs/Desktop/207RakhmatullinKarim/03module/Extra_task/Extra_task/library/library.csproj",
+        "packagesPath": "/Users/karim/.nuget/packages/",
+        "outputPath": "/Users/karim/Library/Mobile Documents/com~apple~CloudDocs/Desktop/207RakhmatullinKarim/03module/Extra_task/Extra_task/library/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/karim/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.103/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

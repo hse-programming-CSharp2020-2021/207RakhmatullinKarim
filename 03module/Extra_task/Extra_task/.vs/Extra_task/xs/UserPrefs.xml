@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{1C4E8A3A-B2B7-408D-9DAB-95D338FA9460}|Default">
+  <MonoDevelop.Ide.ItemProperties.Program__2 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Program_2/Program.cs">
+    <Files>
+      <File FileName="Extra_task/Program.cs" Line="18" Column="13" />
+      <File FileName="library/Class1.cs" Line="7" Column="6" />
+      <File FileName="Extra_task/.DS_Store" Line="1" Column="1" />
+      <File FileName="Program_2/Program.cs" Line="33" Column="56" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Extra_task" expanded="True">
+            <Node name="library" expanded="True" />
+            <Node name="Program_1" expanded="True" />
+            <Node name="Program_2" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Program__1 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,12 @@
+/Users/karim/Library/Mobile Documents/com~apple~CloudDocs/Desktop/207RakhmatullinKarim/03module/Sem_09.03/Class work/Class_work/Task_2/bin/Debug/netcoreapp3.1/Task_2.deps.json
+/Users/karim/Library/Mobile Documents/com~apple~CloudDocs/Desktop/207RakhmatullinKarim/03module/Sem_09.03/Class work/Class_work/Task_2/bin/Debug/netcoreapp3.1/Task_2.runtimeconfig.json
+/Users/karim/Library/Mobile Documents/com~apple~CloudDocs/Desktop/207RakhmatullinKarim/03module/Sem_09.03/Class work/Class_work/Task_2/bin/Debug/netcoreapp3.1/Task_2.runtimeconfig.dev.json
+/Users/karim/Library/Mobile Documents/com~apple~CloudDocs/Desktop/207RakhmatullinKarim/03module/Sem_09.03/Class work/Class_work/Task_2/bin/Debug/netcoreapp3.1/Task_2.dll
+/Users/karim/Library/Mobile Documents/com~apple~CloudDocs/Desktop/207RakhmatullinKarim/03module/Sem_09.03/Class work/Class_work/Task_2/bin/Debug/netcoreapp3.1/Task_2.pdb
+/Users/karim/Library/Mobile Documents/com~apple~CloudDocs/Desktop/207RakhmatullinKarim/03module/Sem_09.03/Class work/Class_work/Task_2/obj/Debug/netcoreapp3.1/Task_2.csprojAssemblyReference.cache
+/Users/karim/Library/Mobile Documents/com~apple~CloudDocs/Desktop/207RakhmatullinKarim/03module/Sem_09.03/Class work/Class_work/Task_2/obj/Debug/netcoreapp3.1/Task_2.AssemblyInfoInputs.cache
+/Users/karim/Library/Mobile Documents/com~apple~CloudDocs/Desktop/207RakhmatullinKarim/03module/Sem_09.03/Class work/Class_work/Task_2/obj/Debug/netcoreapp3.1/Task_2.AssemblyInfo.cs
+/Users/karim/Library/Mobile Documents/com~apple~CloudDocs/Desktop/207RakhmatullinKarim/03module/Sem_09.03/Class work/Class_work/Task_2/obj/Debug/netcoreapp3.1/Task_2.csproj.CoreCompileInputs.cache
+/Users/karim/Library/Mobile Documents/com~apple~CloudDocs/Desktop/207RakhmatullinKarim/03module/Sem_09.03/Class work/Class_work/Task_2/obj/Debug/netcoreapp3.1/Task_2.dll
+/Users/karim/Library/Mobile Documents/com~apple~CloudDocs/Desktop/207RakhmatullinKarim/03module/Sem_09.03/Class work/Class_work/Task_2/obj/Debug/netcoreapp3.1/Task_2.pdb
+/Users/karim/Library/Mobile Documents/com~apple~CloudDocs/Desktop/207RakhmatullinKarim/03module/Sem_09.03/Class work/Class_work/Task_2/obj/Debug/netcoreapp3.1/Task_2.genruntimeconfig.cache
